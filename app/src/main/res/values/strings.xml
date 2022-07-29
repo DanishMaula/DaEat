@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">daEat</string>
+    <string name="popular_recipe">Popular Recipe</string>
+    <string name="danishmaulahasbi_gmail_com">danishmaulahasbi@gmail.com</string>
+    <string name="rekomendasi">Rekomendasi</string>
+    <string name="halo_danish_maula">Halo, Danish Maula</string>
+    <string name="masak_apa_hari_ini">Masak apa hari ini?</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="cara_membuat">Cara membuat :</string>
+    <string name="title">Title</string>
+    <string name="desc">desc</string>
+    <string name="instruction">instruction</string>
+    <string name="bahan_bahan">Bahan bahan :</string>
+    <string name="danish_maula_hasbi">Danish Maula Hasbi</string>
+</resources>
